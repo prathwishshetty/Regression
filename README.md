@@ -7,3 +7,6 @@ This Jupyter notebook contains python implementation of :
 1. Ridge Regression
     * Closed Form
     * Batch Gradient Descent
+
+### To do
+Detailed description of the methods will be added shortly
