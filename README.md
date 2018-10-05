@@ -1,7 +1,7 @@
-# Logistic Regression Implementation
+# Linear Regression Implementation
 
 This Jupyter notebook contains python implementation of :
-1. Logistic Regression
+1. Linear Regression
     * Closed Form
     * Batch Gradient Descent
 1. Ridge Regression
