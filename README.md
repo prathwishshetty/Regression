@@ -9,4 +9,4 @@ This Jupyter notebook contains python implementation of :
     * Batch Gradient Descent
 
 ### To do
-Detailed description of the methods will be added shortly
+Detailed description of the methods to be added shortly
